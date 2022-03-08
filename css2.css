@@ -1,0 +1,207 @@
+body{
+    border: 6px groove yellowgreen;
+    margin: 0px;
+    height: 1950px;
+    /* background-image: url(./css2.jpg); */
+    
+}
+.container{
+    margin: 15px;
+    display: flex;
+    position: relative;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.item1{
+    border: 8px solid red;
+    border-radius: 35px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 19vh;
+    font-size: 25px;
+
+
+}
+
+
+.box2{
+    border: 8px solid red;
+    border-radius: 35px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 10vh;
+    font-size: 20px;
+    position: relative;
+    left:-86px;
+    top: 15px;
+
+}
+
+
+.akash{
+      border: 8px red solid;
+      background-color: black;
+      border-radius: 35px;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 500px;
+      height: 19vh;
+      font-size: 20px;
+      position: relative;
+      left:20px;
+      padding: 8px;
+
+
+}
+
+
+.circle{
+    display: flex;
+    border: 8px solid gray;
+    background-color: mediumseagreen;
+    border-radius: 50%;
+    margin-top: 260px;
+    left: 60px;
+    position: absolute;
+    left: 60px;
+    height: 380px;
+    width: 360px;
+    align-items: center;
+    text-decoration: underline;
+    text-align: center;
+    
+}
+
+.form{
+    display: flex;
+    background-color: white;
+    flex-flow: column wrap;
+    border: 10px dashed red;
+    /* margin-top: 260px;
+    margin-right: 120px; */
+    align-items: center;
+    position: absolute;
+    top: 200px;
+    right: 300px;
+    height: 700px;
+    width: 400px;
+    padding: 15px;
+}
+
+.red{
+    color: red;
+}
+
+.menu{
+    display: flex;
+    border: 10px solid red;
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    width: 400px;
+    position: absolute;
+    top: 1000px;
+    left: 460px;
+    border-radius: 35px;
+    font-size: xx-large;
+}
+
+.item3{
+     display: flex; 
+     flex-flow: column ;
+    position: absolute;
+    top: 1100px;
+    left: 86px;
+    
+    justify-items: center;
+    width: 80vw;
+    padding: 2rem;
+    
+}
+.ib1{
+    display: flex;
+    padding: 25px;
+    justify-content: space-evenly;
+    
+
+}
+.block1{
+    background-color: aqua;
+    border-radius: 20px;
+    border: 1px solid rgba(32, 218, 103, 0.705);
+    text-align: center;
+    width: 294px;
+    
+}
+
+.block2{
+    background-color: aqua;
+    border-radius: 20px;
+    border: 1px solid rgba(32, 218, 103, 0.705);
+    text-align: center;
+    width: 294px;
+    
+
+}
+
+.block3{
+    background-color: aqua;
+    border-radius: 20px;
+    border: 1px solid rgba(32, 218, 103, 0.705);
+    text-align: center;
+    width: 294px;
+    
+
+
+}
+
+.ib2{
+    display: flex;
+    padding: 25px;
+    justify-content: space-evenly;
+}
+
+.block4{
+    background-color: aqua;
+    border-radius: 20px;
+    border: 1px solid rgba(32, 218, 103, 0.705);
+    text-align: center;
+    width: 294px;
+
+}
+
+.block5{
+    background-color: aqua;
+    border-radius: 20px;
+    border: 1px solid rgba(32, 218, 103, 0.705);
+    text-align: center;
+    width: 294px;
+}
+
+.block6{
+    background-color: aqua;
+    border-radius: 20px;
+    border: 1px solid rgba(32, 218, 103, 0.705);
+    text-align: center;
+    width: 294px;
+
+}
+.hr{
+    background-color: blue;
+    position: absolute;
+    top: 0px;
+}
